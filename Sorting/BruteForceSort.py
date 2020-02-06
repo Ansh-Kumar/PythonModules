@@ -20,11 +20,6 @@ def checkList(lst):
 
 
 
-def findSmallestVal(lst, startingPos):
-    return True
-
-
-
 
 def bruteForce(lst):
     counter = 0
