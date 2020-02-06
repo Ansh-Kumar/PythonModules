@@ -4,4 +4,5 @@ This module will hold all basic computer science functions. Help from the commun
 
 # Table of Contents
 Docs
+
 Sorting
